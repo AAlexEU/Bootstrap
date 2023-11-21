@@ -1,1 +1,3 @@
-# Bootstrap
+<DOCTYPE html!>
+<html>
+</html>
